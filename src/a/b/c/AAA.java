@@ -11,4 +11,7 @@ package a.b.c;
  */
 public class AAA {
   //fffffffdgffffffffsdfdsfdsfsdfsdff
+  //fffffffsdfdsfdsfsdfsdff
+  //fffffff
+  //dffff
 }

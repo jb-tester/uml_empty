@@ -7,5 +7,6 @@ package a.b.cc;
  ********************************
  */
 public class QQQ {
+    //
     // remote qqq
 }
